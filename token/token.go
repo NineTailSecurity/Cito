@@ -26,10 +26,13 @@ const (
 	ASTERISK = "*"
 	SLASH    = "/"
 
-	LT       = "<"
-	GT       = ">"
-	EQUAL    = "=="
-	NOTEQUAL = "!="
+	LT        = "<"
+	GT        = ">"
+	GTOREQUAL = ">="
+	LTOREQUAL = "<="
+	EQUAL     = "=="
+	NOTEQUAL  = "!="
+	EQUALTYPE = "?="
 
 	// Delimeters
 	COMMA     = ","
