@@ -1,3 +1,3 @@
-module github.com/NineTailSecurity/Tron
+module github.com/NineTailSecurity/Cito
 
 go 1.20

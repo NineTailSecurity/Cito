@@ -5,7 +5,7 @@ package lexer
 import (
 	"testing"
 
-	"github.com/NineTailSecurity/Tron/token"
+	"github.com/NineTailSecurity/Cito/token"
 )
 
 func TestNextToken(t *testing.T) {

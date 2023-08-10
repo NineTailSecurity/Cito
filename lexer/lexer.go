@@ -3,7 +3,7 @@
 package lexer
 
 import (
-	"github.com/NineTailSecurity/Tron/token"
+	"github.com/NineTailSecurity/Cito/token"
 )
 
 type Lexer struct {
