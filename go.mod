@@ -1,3 +1,3 @@
-module github.com/NineTailSecurity/Interpreter
+module github.com/NineTailSecurity/Tron
 
 go 1.20
