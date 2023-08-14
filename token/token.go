@@ -46,7 +46,7 @@ const (
 	// Keywords
 	FUNCTION = "FUNCTION"
 	LET      = "LET"
-	TRUE     = "TREU"
+	TRUE     = "TRUE"
 	FALSE    = "FALSE"
 	IF       = "IF"
 	ELSE     = "ELSE"
