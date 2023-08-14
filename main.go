@@ -15,7 +15,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	fmt.Printf("Hello %s! Welcom to Cito Programming Language!\n", user.Username)
-	fmt.Printf("Try and type in commands\n")
+	fmt.Printf("Hello %s! Welcome to Cito Programming Language!\n", user.Username)
+	fmt.Printf("Try and write a script!\n")
 	repl.Start(os.Stdin, os.Stdout)
 }
