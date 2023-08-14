@@ -1,3 +1,3 @@
-module github.com/NineTailSecurity/Cito
+module Cito
 
 go 1.20

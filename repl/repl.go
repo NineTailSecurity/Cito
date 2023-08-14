@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/NineTailSecurity/Cito/lexer"
-	"github.com/NineTailSecurity/Cito/token"
+	"Cito/lexer"
+	"Cito/token"
 )
 
 const PROMPT = ">> "

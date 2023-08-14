@@ -7,7 +7,7 @@ import (
 	"os"
 	"os/user"
 
-	"github.com/NineTailSecurity/Cito/repl"
+	"Cito/repl"
 )
 
 func main() {

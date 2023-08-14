@@ -3,7 +3,7 @@
 package ast
 
 import (
-	"github.com/NineTailSecurity/Cito/token"
+	"Cito/token"
 )
 
 type Node interface {
